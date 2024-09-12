@@ -1,3 +1,6 @@
+<img width="821" alt="Screenshot 2024-09-12 at 2 48 58 PM" src="https://github.com/user-attachments/assets/5bc1a3f1-1c03-48d1-9846-18c6cf9b0bea">
+
+
 Steps for Deployment -
 
 1. The CICD pipeline itself is a sophisticated form of technology but a real-time saver it generally consists of three CORE services, Starting from CodeCommit where developers usually connect their local machine with the help of code workspaces like VSCode to CodeCommit repositories by making use of Roles created by IAM in AWS.
